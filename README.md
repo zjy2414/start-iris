@@ -36,7 +36,7 @@
 
 - [:smiley_cat: 源代码](https://github.com/zjy2414/start-iris)
 
-- [预览](http://start-iris.iris-service.1451800943597498.cn-shanghai.fc.devsapp.net/)
+- [预览地址](http://start-iris.iris-service.1451800943597498.cn-shanghai.fc.devsapp.net/)
 
 </codepre>
 
