@@ -21,7 +21,7 @@ services:
         description: "Serverless Devs Website Service"
       function:
         name: "{{ functionName }}"
-        description: 'hello world by serverless devs'
+        description: 'hello from serverless devs'
         codeUri: './code'
         cAPort: 9000
         customRuntimeConfig:
