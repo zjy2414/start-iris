@@ -66,17 +66,6 @@
 
 Iris是一个高效且设计良好的跨平台Go Web框架，具有强大的功能集，支持 AWS Lambda、gRPC、MVC、Websockets、Sessions等功能，是构建高性能 Web 应用程序和 API 的不二之选。
 
-通过 Serverless Devs 开发者工具，您只需要几步，就可以体验 Serverless 架构，带来的降本提效的技术红利。
-
-部署完成之后，您可以看到系统返回给您的案例地址，例如：
-
-![](http://image.editor.devsapp.cn/evBw7lh8ktv6xDBzSSzvjr1ykchAF9hG41gf1ek1sk8tr4355A/xx5v6b5qCdbxAabjBlvZ)
-
-此时，打开案例地址，就可以看到测试的应用详情：
-
-![](http://image.editor.devsapp.cn/evBw7lh8ktv6xDBzSSzvjr1ykchAF9hG41gf1ek1sk8tr4355A/gF3kZb5r31Cq6fhbcA26)
-
-
 </appdetail>
 
 <devgroup>
