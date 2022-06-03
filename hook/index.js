@@ -15,6 +15,8 @@ async function postInit(inputObj) {
     console.log(`
     Welcome to use start-iris
 
+     * 请在linux/mac os环境下进行部署（Windows可使用linux子系统）
+
      * 部署前执行请安装go
          go  : https://golang.google.cn/doc/install
        
