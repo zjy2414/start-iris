@@ -1,4 +1,4 @@
-edition: 1.0.1
+edition: 1.0.2
 name: start-iris
 access: "{{ access }}" #  秘钥别名
 

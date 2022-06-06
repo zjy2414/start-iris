@@ -2,7 +2,7 @@ Type: Application
 Name: start-iris
 Provider:
   - 阿里云
-Version: 1.0.1
+Version: 1.0.2
 Description: Iris是一个高效且设计良好的跨平台Go Web框架，具有强大的功能集，是构建高性能 Web 应用程序和 API 的不二之选。
 HomePage: https://github.com/zjy2414/start-iris
 Tags:
